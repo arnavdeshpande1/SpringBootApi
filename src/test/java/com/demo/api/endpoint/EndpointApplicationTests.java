@@ -10,7 +10,4 @@ class EndpointApplicationTests {
 	void contextLoads() {
 	}
 
-	public static void main(String[] args) {
-		Endpoint.main(args);
-	}
 }
